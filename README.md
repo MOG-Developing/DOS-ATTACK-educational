@@ -14,6 +14,7 @@ This project was made by me. Everything was made in python. It is easy to use.
 - Libraries: ``pip install tk customtkinter`` (the script uses these too: socket, threading, random, time)
 
 
+# MOG-DOS_V1
 
 V1: ![image](https://github.com/user-attachments/assets/c97cba96-0175-49bb-99d9-003b8818a502)
 
