@@ -3,7 +3,6 @@ import threading
 import tkinter as tk
 from tkinter import messagebox, scrolledtext
 
-# Global variable to control the attack threads
 attack_running = False
 
 def flood(target_ip, target_port):
