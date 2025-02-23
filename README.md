@@ -5,6 +5,7 @@
 This project was made by me. Everything was made in python. It is easy to use.
 
 - The port you should use is ``80``.
+- Put the amount of threads you want(mostly the amount your CPU has)
 
 **Working on Windows-11/10** _haven't tested on linux and macos yet_
 
