@@ -23,4 +23,5 @@ MOG-DOS_V1 is powerful tho. ``In line_8`` you can type the amount of data you wa
 # MOG-DOS_V2
 
 V2: ![image](https://github.com/user-attachments/assets/0be5f469-f3ae-40a2-8703-f94418dd20ad)
+
 MOG-DOS_V2 is even more powerful version.. A version with a gui and better mechanics.
