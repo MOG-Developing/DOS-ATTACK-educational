@@ -49,11 +49,11 @@ def animate_title():
     root.after(500, animate_title)
 
 root = tk.Tk()
-root.title("MOG-DOS")
+root.title("MOG-DOS_V2")
 root.geometry("850x650")
 root.configure(bg="#6a0dad")
 
-title_label = tk.Label(root, text="MOG-DOS", font=("Helvetica", 40, "bold"), bg="#6a0dad", fg="#8a2be2")
+title_label = tk.Label(root, text="MOG-DOS_V2", font=("Helvetica", 40, "bold"), bg="#6a0dad", fg="#8a2be2")
 title_label.pack(pady=20)
 animate_title()
 
