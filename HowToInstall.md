@@ -1,7 +1,7 @@
 # HowToInstall MOG-DOS
 
 ## PC: (Windows 10/11, probably works on Linux too)
-- Install Python 3.11 or newer:** https://apps.microsoft.com/detail/9nrwmjp3717k?hl=en-us&gl=US
+- Install Python 3.11 or newer: https://apps.microsoft.com/detail/9nrwmjp3717k?hl=en-us&gl=US
 - Go to cmd/terminal and copy paste this(these libraries):** ``pip install tk customtkinter``
 *(it uses all of these libraries socket, threading, time, random, tkinter.)*
 - Now you can open any of the versions of the MOG-DOS projects.**
