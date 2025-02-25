@@ -17,4 +17,4 @@
 - Go to GooglePlay-Store and download **Termux**
 - After it downloads **go to Termux** and copy and paste this: ``pkg update -y && pkg upgrade -y && pkg install python -y && termux-setup-storage``
 - After it installs all of the packages and etc. it will open a window asking for permissions to your storage so find termux and give them the permission.
-- To open the python file now you should copy paste this: ``cd /storage/emulated/0/Download/`` and then ``example.py`` (to open V1 type this ``python  MOG-DOS_V1.py``)
+- To open the python file now you should copy paste this: ``cd /storage/emulated/0/Download/`` and then ``python example.py`` (to open V1 type this ``python  MOG-DOS_V1.py``)
