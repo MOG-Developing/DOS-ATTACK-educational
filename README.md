@@ -8,6 +8,8 @@ This project was made by me. Everything was made in python. It is easy to use.
 
 _**Also this project is an actual DOS project so you should use it carefully and responsibly!**_
 
+[How to Install and use MOG-DOS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/HowToInstall.md)
+
 - The port you should use is ``80``.
 - Put the amount of threads you want(mostly the amount your CPU has)
 
