@@ -30,3 +30,9 @@ V2: ![image](https://github.com/user-attachments/assets/4d494335-d65d-4e3f-9eca-
 
 
 MOG-DOS_V2 is even more powerful version.. A version with a gui and better mechanics.
+
+# MOG-DOS_*V1.1*
+
+V1.1: ![image](https://github.com/user-attachments/assets/d2e98c69-77f0-490a-80ae-4fddeb903eee)
+
+MOG-DOS_V1.1 is a stronger version of the V1. It got more attacks such as, UDP, TCP, HTTP, and more..
