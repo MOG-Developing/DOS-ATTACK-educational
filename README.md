@@ -42,6 +42,6 @@ MOG-DOS_V1.1 is a stronger version of the V1. It got more attacks such as, UDP, 
 # MOG-DOS_V3
 
 V3: ![image](https://github.com/user-attachments/assets/ea7eb465-adfa-4bc9-812a-9c31e3d27fa2)
-V3 Dark edition: ![image](https://github.com/user-attachments/assets/b1316a36-20aa-4933-a8ad-608b5a9f61e4)
+V3 Dark edition:  ![image](https://github.com/user-attachments/assets/b1316a36-20aa-4933-a8ad-608b5a9f61e4)
 
 MOG-DOS_V3 is a version with a good gui with improved UDP mechanics and more.
