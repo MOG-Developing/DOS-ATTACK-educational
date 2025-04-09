@@ -46,3 +46,9 @@ V3 Dark Recolor:  ![image](https://github.com/user-attachments/assets/b1316a36-2
 V3 Mysterious Recolor:  ![image](https://github.com/user-attachments/assets/7ddddbb6-f2a4-4329-945c-c75dd90badb2)
 
 MOG-DOS_V3 is a version with a good gui with improved UDP mechanics and more.
+
+# MOG-DOS_V4
+
+![image](https://github.com/user-attachments/assets/b1f3f704-31c5-4ee7-8c28-cf87420a64dc)
+
+MOG-DOS_V4 is a similar version to 1.1! Features such as: UDP Flood, TCP SYN Flood, HTTP Flood, HTTPS Flood, Slowloris attacks. Also it is kinda unstable and might have some bugs.
