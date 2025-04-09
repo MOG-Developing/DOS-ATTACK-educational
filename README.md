@@ -19,6 +19,7 @@ _**Also this project is an actual DOS project so you should use it carefully and
 - Python 3.11 or Python 3.11.9
 - Libraries: ``pip install tk customtkinter`` (the script uses these too: socket, threading, random, time)
 
+---
 
 # MOG-DOS_V1
 
@@ -49,6 +50,6 @@ MOG-DOS_V3 is a version with a good gui with improved UDP mechanics and more.
 
 # MOG-DOS_V4-UNSTABLE
 
-![image](https://github.com/user-attachments/assets/b1f3f704-31c5-4ee7-8c28-cf87420a64dc)
+![image](https://github.com/user-attachments/assets/8f1f77e1-c777-4d7c-9f7e-5a270f4dd947)
 
 MOG-DOS_V4-UNSTABLE is a similar version to 1.1! Features such as: UDP Flood, TCP SYN Flood, HTTP Flood, HTTPS Flood, Slowloris attacks. Also it is kinda unstable and might have some bugs. Also it might lack some features.
