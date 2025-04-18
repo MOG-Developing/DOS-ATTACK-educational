@@ -12,7 +12,7 @@
 - Input the IP
 - The port you should use is ``80``
 - Type the number of threads. (that your CPU has/handles)
-- Input the seconds (time) for how much you want to run. **(isn't in the classic V1 and V2, only in V1.1)**
+- Input the seconds (time) for how much you want to run. **(isn't available in every version.)**
 - Select the attack e.g TCP, UDP, HTTP and etc. **(isn't available in every version)**
 
 # How to use in ANDROID (Alot of the versions work on android, all of the ones that don't have GUI's are working. You might get the GUI ones working with PyDroid)
