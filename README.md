@@ -1,12 +1,13 @@
 # DOS-ATTACK-educational
 
-# _WARNING: EDUCATIONAL PURPOSES ONLY! YOU CAN GET INTO TROUBLE FOR THIS._
+## _WARNING: EDUCATIONAL PURPOSES ONLY! YOU CAN GET INTO TROUBLE FOR THIS._
 
 ## NOT A SIMULATION.
 
 This project was made by me. Everything was made in python. It is easy to use.
 
 _**Also this project is an actual DOS project so you should use it carefully and responsibly!**_
+
 
 [How to Install and use MOG-DOS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/HowToInstall.md)
 
