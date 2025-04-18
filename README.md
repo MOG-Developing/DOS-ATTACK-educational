@@ -10,10 +10,12 @@ _**Also this project is an actual DOS project so you should use it carefully and
 
 [How to Install and use MOG-DOS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/HowToInstall.md)
 
-- The port you should use is ``80``.
-- Put the amount of threads you want(mostly the amount your CPU has)
+- Input any port you want. Depends on your needs, **e.g: 80, 443, 53, 22, 21, 3306, 3389, 8080, 8443, 25565, 19132, 6667, 8888, 27015, 7777, 26, 1111, 2082, 32764, 7443**) 
+- Put the amount of threads you want.
 
-**Working on Windows-11/10** _haven't tested on linux and macos yet_
+---
+
+**Working on Windows-11/10** _Working on Linux!_ **Check: [How to Install and use MOG-DOS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/HowToInstall.md)**
 
 ## REQUIREMENTS:
 - Python 3.11 or Python 3.11.9
