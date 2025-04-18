@@ -16,7 +16,7 @@ _**Also this project is an actual DOS project so you should use it carefully and
 
 ---
 
-**Working on Windows-11/10** _Working on Linux!_ **Check: [How to Install and use MOG-DOS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/HowToInstall.md)**
+**_Working on Windows-11/10 and Linux!_** *Check: [How to Install and use MOG-DOS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/HowToInstall.md)*
 
 ## REQUIREMENTS:
 - Python 3.11 or Python 3.11.9
