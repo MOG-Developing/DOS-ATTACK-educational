@@ -20,3 +20,7 @@
 - After it downloads **go to Termux** and copy and paste this: ``pkg update -y && pkg upgrade -y && pkg install python -y && termux-setup-storage``
 - After it installs all of the packages and etc. it will open a window asking for permissions to your storage so find termux and give them the permission.
 - To open the python file now you should copy paste this: ``cd /storage/emulated/0/Download/`` **<--- Pick any directory where the file is.** and then ``python example.py`` (you should *replace the example.py with the file name*``)
+
+---
+
+# HowToInstall instructions to install any MOG-DOS file project aren't out yet. *SOON*
