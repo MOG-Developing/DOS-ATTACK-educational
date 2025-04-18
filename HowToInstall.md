@@ -1,7 +1,7 @@
 # HowToInstall MOG-DOS
 
 ## PC: (Windows 10/11, most of the versions work on Linux too)
-*TESTED ON: Linux Lite 32bit/64bit, Ubuntu Linux 64bit, Windows11/10! (Most of the Linux distros will work)
+*TESTED ON: Linux Lite 32bit/64bit, Ubuntu Linux 64bit, Windows11/10! (Most of the Linux distros will work)*
 
 - Install Python 3.11 or newer: https://apps.microsoft.com/detail/9nrwmjp3717k?hl=en-us&gl=US
 - Go to cmd/terminal and copy paste this(these libraries): ``pip install tk customtkinter``
