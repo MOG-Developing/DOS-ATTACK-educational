@@ -7,7 +7,7 @@
 
 [How to Install and use MOG-DOS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/HowToInstall.md)
 
-** __TESTED ON WINDOWS-10/11, SHOULD WORK ON LINUX TOO!__ **
+__TESTED ON WINDOWS-10/11, SHOULD WORK ON LINUX TOO!__
 [GOLANG DOWNLOAD](https://go.dev/doc/install)
 
 *GOLANG VERSION THAT WAS USED WHILE TESTING: GO 1.24.2*
