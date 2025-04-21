@@ -10,7 +10,7 @@
 
 ## How to use
 - Input the IP
-- The port you should use is ``80``
+- Input any port you want. Depends on your needs, **e.g: 80, 443, 53, 22, 21, 3306, 3389, 8080, 8443, 25565, 19132, 6667, 8888, 27015, 7777, 26, 1111, 2082, 32764, 7443**
 - Type the number of threads. (that your CPU has/handles)
 - Input the seconds (time) for how much you want to run. **(isn't available in every version.)**
 - Select the attack e.g TCP, UDP, HTTP and etc. **(isn't available in every version)**
