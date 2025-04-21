@@ -17,6 +17,7 @@
 ## PHOTOS:
 
 **MOG-DOS_V1-GOLANG.go**:
+
 ![image](https://github.com/user-attachments/assets/7cf494d5-a83d-4667-9b17-9aeb0aa9ffa7)
 
 MOG-DOS_V1-GOLANG.go is the same as MOG-DOS_V1.py but it's in GoLang. Improved threading.
