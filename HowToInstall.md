@@ -28,13 +28,13 @@
 # MOG-DOS GOLANG VERSIONS HowToInstall
 *TESTED ON: WINDOWS10/11, most of linux will work*
 
-** WINDOWS WAY**
+**WINDOWS WAY**
 - Install GoLang. [GOLANG](https://go.dev/doc/install)
 - Type in terminal `` go version`` if in windows. If it tells the version means that you installed Go correctly.
 - Type ``cd C:\example``, replace it with the directory the file is in.
 - Then type ``go run filename.go`` you need to replace *filename.go* with the name of the file.
 
-** LINUX WAY **
+**LINUX WAY**
 - Open your terminal.
 - Type or copy paste:
 <pre> 
