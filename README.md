@@ -9,6 +9,8 @@ This project was made by me. Everything was made in python. It is easy to use.
 _**Also this project is an actual DOS project so you should use it carefully and responsibly!**_
 
 
+[MOG-DOS GOLANG VERSIONS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/HowToInstall.md)
+
 [How to Install and use MOG-DOS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/HowToInstall.md)
 
 - Input any port you want. Depends on your needs, **e.g: 80, 443, 53, 22, 21, 3306, 3389, 8080, 8443, 25565, 19132, 6667, 8888, 27015, 7777, 26, 1111, 2082, 32764, 7443**) 
