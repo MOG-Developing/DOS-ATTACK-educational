@@ -24,7 +24,7 @@ _**Also this project is an actual DOS project so you should use it carefully and
 
 ---
 
-### PHOTOS:
+# __PHOTOS:__
 
 # MOG-DOS_V1
 
