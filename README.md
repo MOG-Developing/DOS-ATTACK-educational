@@ -9,7 +9,7 @@ This project was made by me. Everything was made in python. It is easy to use.
 _**Also this project is an actual DOS project so you should use it carefully and responsibly!**_
 
 
-[MOG-DOS GOLANG VERSIONS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/HowToInstall.md)
+[MOG-DOS GOLANG VERSIONS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/README-GO.md)
 
 [How to Install and use MOG-DOS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/HowToInstall.md)
 
