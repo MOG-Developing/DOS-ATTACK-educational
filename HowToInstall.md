@@ -23,8 +23,6 @@
 
 ---
 
-# HowToInstall instructions to install any MOG-DOS file project aren't out yet. *SOON*
-
 # MOG-DOS GOLANG VERSIONS HowToInstall
 *TESTED ON: WINDOWS10/11, most of linux will work*
 
@@ -45,5 +43,7 @@ sudo apt install golang-go
 - Then write or copy paste: <pre>go run filename.go</pre> replace *filename.go* with the file name.
 
 --- 
+
+# HowToInstall instructions to install any MOG-DOS file project aren't out yet. *SOON*
 
 # HOPE YOU ENJOY!
