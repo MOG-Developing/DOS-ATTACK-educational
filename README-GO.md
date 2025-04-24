@@ -22,4 +22,14 @@ __TESTED ON WINDOWS-10/11, SHOULD WORK ON LINUX TOO!__
 
 MOG-DOS_V1-GOLANG.go is the same as MOG-DOS_V1.py but it's in GoLang. Improved threading.
 
+
+**MOG-DOS_V1.1-GOLANG.go**:
+ 
+![image](https://github.com/user-attachments/assets/eeee0f25-34c1-476f-9ee9-de573ebfd75d)
+
+MOG-DOS_V1.1-GOLANG.go is the same as MOG-DOS_V1.1.py but it's in GoLang. Improved threading. Better ascii. Improved some stuff.
+
+
+
+
 # MORE COMING SOON!
