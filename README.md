@@ -60,4 +60,9 @@ MOG-DOS_V3 is a version with a good gui with improved UDP mechanics and more.
 ![image](https://github.com/user-attachments/assets/8f1f77e1-c777-4d7c-9f7e-5a270f4dd947)
 
 MOG-DOS_V4-UNSTABLE is a similar version to 1.1! Features such as: UDP Flood, TCP SYN Flood, HTTP Flood, HTTPS Flood, Slowloris attacks. Also it is kinda unstable and might have some bugs. Also it might lack some features. It uses alot of threads which might lead to some issues..
-**V4 Stable coming soon!**
+
+# MOG-DOS_V4
+
+![image](https://github.com/user-attachments/assets/82d5548a-1878-4a9d-a759-459eb35da97c)
+
+MOG-DOS_V4 is a better version of the V4 unstable. 
