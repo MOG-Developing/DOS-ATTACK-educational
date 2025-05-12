@@ -22,7 +22,7 @@ _**Also this project is an actual DOS project so you should use it carefully and
 
 ## REQUIREMENTS:
 - Python 3.11 or Python 3.11.9
-- Libraries: ``pip install tk customtkinter`` (the script uses these too: socket, threading, random, time)
+- Libraries: ``pip install tk customtkinter scapy`` (the script uses these too: socket, threading, random, time)
 
 ---
 
