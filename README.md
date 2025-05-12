@@ -65,4 +65,4 @@ MOG-DOS_V4-UNSTABLE is a similar version to 1.1! Features such as: UDP Flood, TC
 
 ![image](https://github.com/user-attachments/assets/82d5548a-1878-4a9d-a759-459eb35da97c)
 
-MOG-DOS_V4 is a better version of the V4 unstable. 
+MOG-DOS_V4 is a better version of the V4 unstable. Added thread ammount, added icmp flood, dns amplification. Optimized and a little bit stronger.
