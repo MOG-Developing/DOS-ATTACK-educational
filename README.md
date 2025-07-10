@@ -6,6 +6,8 @@
 
 This project made by me. Easy to use!
 
+![Stars](https://img.shields.io/github/stars/MOG-Developing/DOS-ATTACK-educational?style=social) ![Views](https://komarev.com/ghpvc/?username=MOG-Developing&label=Repo%20views&color=blue&style=flat&repo=DOS-ATTACK-educational) ![Forks](https://img.shields.io/github/forks/MOG-Developing/DOS-ATTACK-educational?style=social)
+
 ---
 
 [How to Install and use MOG-DOS](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/HowToInstall.md)
