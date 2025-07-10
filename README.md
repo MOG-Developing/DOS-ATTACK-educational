@@ -1,0 +1,6 @@
+# MOG-DOS NEW!
+## WARNING: EDUCATIONAL PURPOSES ONLY! YOU CAN GET INTO TROUBLE FOR THIS.
+## NOT A SIMULATION.
+---
+
+### All of these were tested on Windows11/10!
