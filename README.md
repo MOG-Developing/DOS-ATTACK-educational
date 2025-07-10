@@ -1,7 +1,7 @@
 # MOG-DOS NEW!
 ## WARNING: EDUCATIONAL PURPOSES ONLY! YOU CAN GET INTO TROUBLE FOR THIS.
 ## NOT A SIMULATION.
-[![License](https://img.shields.io/github/license/MOG-Developing/DOS-ATTACK-educational)](LICENSE) [![Stars](https://img.shields.io/github/stars/MOG-Developing/DOS-ATTACK-educational?style=social)] [![Forks](https://img.shields.io/github/forks/MOG-Developing/DOS-ATTACK-educational?style=social)]
+![License](https://img.shields.io/github/license/MOG-Developing/DOS-ATTACK-educational) ![Stars](https://img.shields.io/github/stars/MOG-Developing/DOS-ATTACK-educational?style=social) ![Views](https://komarev.com/ghpvc/?username=MOG-Developing&label=Repo%20views&color=blue&style=flat&repo=DOS-ATTACK-educational) ![Forks](https://img.shields.io/github/forks/MOG-Developing/DOS-ATTACK-educational?style=social)
 
 ---
 
