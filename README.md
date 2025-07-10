@@ -19,3 +19,5 @@ You should also look at:
 [GOLANG MOG-DOS main branch README](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/README-GO.md)
 
 [NEW MOG-DOS new branch README](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/new/README.md)
+
+[NEW MOG-DOS branch](https://github.com/MOG-Developing/DOS-ATTACK-educational/tree/new)
