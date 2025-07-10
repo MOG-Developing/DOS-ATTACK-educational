@@ -12,4 +12,7 @@ This project made by me. Easy to use!
 
 ---
 
-You should also look at: [MOG-DOS main branch README](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/MainREADME.md) [GOLANG MOG-DOS main branch README](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/README-GO.md) [NEW MOG-DOS new branch README](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/new/README.md)
+You should also look at:
+[MOG-DOS main branch README](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/MainREADME.md)
+[GOLANG MOG-DOS main branch README](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/main/README-GO.md)
+[NEW MOG-DOS new branch README](https://github.com/MOG-Developing/DOS-ATTACK-educational/blob/new/README.md)
