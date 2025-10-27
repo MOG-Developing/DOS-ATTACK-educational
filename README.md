@@ -4,6 +4,9 @@
 
 ## NOT A SIMULATION.
 
+> [!CAUTION]
+> It is illegal and you may get in trouble!
+
 This project made by me. Easy to use!
 
 ![Stars](https://img.shields.io/github/stars/MOG-Developing/DOS-ATTACK-educational?style=social) ![Views](https://komarev.com/ghpvc/?username=MOG-Developing&label=Repo%20views&color=blue&style=flat&repo=DOS-ATTACK-educational) ![Forks](https://img.shields.io/github/forks/MOG-Developing/DOS-ATTACK-educational?style=social)
